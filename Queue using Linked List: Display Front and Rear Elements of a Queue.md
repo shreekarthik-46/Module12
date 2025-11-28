@@ -1,4 +1,4 @@
-#  Queue using Linked List: Display Front and Rear Elements of a Queue
+# 12)b)  Queue using Linked List: Display Front and Rear Elements of a Queue
 
 ##  Aim
 
@@ -7,7 +7,7 @@ To write a Python program to:
 - Display the element at the **front** of the queue.
 - Display the element at the **rear** of the queue.
 
----
+
 
 ##  Algorithm
 1. **Initialize Queue**:
@@ -26,7 +26,7 @@ To write a Python program to:
 5. **Print Results**:
    - Display the front and rear elements with appropriate messages.
 
----
+
 ## Program
 ```
 queue = []
