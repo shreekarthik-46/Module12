@@ -1,11 +1,11 @@
-#  Stack using Linked List: Stack Implementation (Top Element Display)
+# 12)e) Stack using Linked List: Stack Implementation (Top Element Display)
 
 ##  Aim
 
 To write a Python program that implements a **stack**.  
 The program allows inserting 3 elements from the user and then prints the **top element** of the stack.
 
----
+
 
 ##  Algorithm
 
@@ -19,7 +19,7 @@ The program allows inserting 3 elements from the user and then prints the **top 
 5. **Print** the top element.
 6. **End the program.**
 
----
+
 
 ##  Program
 ```
