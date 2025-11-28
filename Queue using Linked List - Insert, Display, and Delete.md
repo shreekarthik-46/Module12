@@ -1,4 +1,4 @@
-# Queue using Linked List - Insert, Display, and Delete
+# 12)a) Queue using Linked List - Insert, Display, and Delete
 
 ##  Aim
 
@@ -8,7 +8,7 @@ To write a Python program that:
 - Deletes the first element.
 - Displays the updated queue after deletion.
 
----
+
 
 ##  Algorithm
 
@@ -28,7 +28,7 @@ To write a Python program that:
 5. **Display Updated Queue**:
    - Print the message `"Queue after the first element is deleted:"` followed by the updated queue contents.
 
----
+
 
 ## Program
 ```
