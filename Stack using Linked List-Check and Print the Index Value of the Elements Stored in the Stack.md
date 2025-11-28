@@ -1,4 +1,4 @@
-# Stack using Linked List: Check and Print the Index Value of the Elements Stored in the Stack
+# 12)d) Stack using Linked List: Check and Print the Index Value of the Elements Stored in the Stack
 
 This Python program demonstrates how to:
 1. Create a stack using a list.
