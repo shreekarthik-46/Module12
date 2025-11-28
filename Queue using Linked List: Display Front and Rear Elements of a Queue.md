@@ -44,6 +44,7 @@ print("\nElement at the rear of the queue is .... ",queue[-1])
 ![queue-display](https://github.com/user-attachments/assets/a64a643a-149e-48ea-969d-b4ee978a6344)
 
 ## Result
+
 Thus a Python program to:
 Insert elements into a queue.
 Display the element at the **front** of the queue.
